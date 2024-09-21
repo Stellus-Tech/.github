@@ -16,7 +16,7 @@ Stellus is at the forefront of Web3 innovation. Our mission is to create a seaml
 
 We believe in the power of community. Here's how you can contribute:
 
-- **Open Source Contributions:** Check out our [GitHub repositories](https://github.com/Stellus) for open issues and feature requests.
+- **Open Source Contributions:** Check out our [GitHub repositories](https://github.com/Stellus-Tech) for open issues and feature requests.
 - **Developer Documentation:** Help improve our docs to make onboarding even smoother.
 - **Community Support:** Join our [Discord](https://discord.gg/Stellus) to help answer questions and share knowledge.
 
