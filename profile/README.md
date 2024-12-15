@@ -22,11 +22,11 @@ We believe in the power of community. Here's how you can contribute:
 
 ## Resources 👩‍💻
 
-- **Website:** [stellus.io](https://stellus.com)
-- **Documentation:** [docs.stellus.io](https://docs.stellus.com)
-- **API Reference:** [api.stellus.io](https://api.stellus.com)
-- **Tutorials:** [learn.stellus.io](https://learn.stellus.com)
-- **Blog:** [blog.stellus.io](https://blog.stellus.com)
+- **Website:** [stellus.com](https://stellus.com)
+- **Documentation:** [docs.stellus.com](https://docs.stellus.com)
+- **API Reference:** [api.stellus.com](https://api.stellus.com)
+- **Tutorials:** [learn.stellus.com](https://learn.stellus.com)
+- **Blog:** [blog.stellus.com](https://blog.stellus.com)
 
 ## Fun Facts 🍿
 
@@ -36,9 +36,9 @@ We believe in the power of community. Here's how you can contribute:
 
 ## Connect With Us 🌐
 
-- x: [@Stellus_io](https://X.com/Stellus)
+- x: [@Stellus](https://X.com/Stellus)
 - LinkedIn: [Stellus](https://www.linkedin.com/company/stellus)
-- Email: hello@stellus.io
+- Email: hello@stellus.com
 
 ---
 
