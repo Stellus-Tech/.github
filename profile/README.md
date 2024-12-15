@@ -18,15 +18,15 @@ We believe in the power of community. Here's how you can contribute:
 
 - **Open Source Contributions:** Check out our [GitHub repositories](https://github.com/Stellus-Tech) for open issues and feature requests.
 - **Developer Documentation:** Help improve our docs to make onboarding even smoother.
-- **Community Support:** Join our [Discord](https://discord.gg/Stellus) to help answer questions and share knowledge.
+- **Community Support:** Join our [Telegram](https://t.me/StellusWeb3) to help answer questions and share knowledge.
 
 ## Resources 👩‍💻
 
-- **Website:** [stellus.io](https://stellus.io)
-- **Documentation:** [docs.stellus.io](https://docs.stellus.io)
-- **API Reference:** [api.stellus.io](https://api.stellus.io)
-- **Tutorials:** [learn.stellus.io](https://learn.stellus.io)
-- **Blog:** [blog.stellus.io](https://blog.stellus.io)
+- **Website:** [stellus.io](https://stellus.com)
+- **Documentation:** [docs.stellus.io](https://docs.stellus.com)
+- **API Reference:** [api.stellus.io](https://api.stellus.com)
+- **Tutorials:** [learn.stellus.io](https://learn.stellus.com)
+- **Blog:** [blog.stellus.io](https://blog.stellus.com)
 
 ## Fun Facts 🍿
 
@@ -36,7 +36,7 @@ We believe in the power of community. Here's how you can contribute:
 
 ## Connect With Us 🌐
 
-- Twitter: [@Stellus_io](https://twitter.com/Stellus_io)
+- x: [@Stellus_io](https://X.com/Stellus)
 - LinkedIn: [Stellus](https://www.linkedin.com/company/stellus)
 - Email: hello@stellus.io
 
